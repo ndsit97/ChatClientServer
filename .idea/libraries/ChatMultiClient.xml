@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChatMultiClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ChatMultiClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
