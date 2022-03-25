@@ -13,7 +13,8 @@ public class NewClass {
     public static void main(String[] args) {
         int a = 3;
         int k = 6;
-        String b ="4";
+        String b ="7";
         System.out.println(a+k+b);
+
     }
 }
